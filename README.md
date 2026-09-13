@@ -194,7 +194,7 @@ Several limitations should be considered when interpreting this analysis:
 ## Project Files
 
 - [Patient Alerts Profile – PDF](Patient%20Alerts%20Profile_UK.pdf)
-- [Clinician Efficiency & Device Health – PDF](Clinician%20Efficiancy%20%26%20Device%20Health_UK.pdf)
+- [Clinician Efficiency & Device Health – PDF](Clinician%20Efficiency%20%26%20Device%20Health_UK.pdf)
 - Tableau workbook – to be added
 - Tableau Public interactive dashboard – to be added
 
