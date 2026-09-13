@@ -196,5 +196,5 @@ Several limitations should be considered when interpreting this analysis:
 - [Patient Alerts Profile – PDF](Patient%20Alerts%20Profile_UK.pdf)
 - [Clinician Efficiency & Device Health – PDF](Clinician%20Efficiency%20%26%20Device%20Health_UK.pdf)
 - [Download the Tableau packaged workbook](vitalink_analysis_UK.twbx)
-- Tableau Public interactive dashboard – to be added
+- [View the interactive dashboards on Tableau Public](https://public.tableau.com/app/profile/marc.riley/viz/vitalink_analysis_UK/ClinicianEfficiancyDeviceHealth)
 
