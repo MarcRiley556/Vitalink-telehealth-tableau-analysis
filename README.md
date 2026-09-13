@@ -195,11 +195,6 @@ Several limitations should be considered when interpreting this analysis:
 
 - [Patient Alerts Profile – PDF](Patient%20Alerts%20Profile_UK.pdf)
 - [Clinician Efficiency & Device Health – PDF](Clinician%20Efficiency%20%26%20Device%20Health_UK.pdf)
-- Tableau workbook – to be added
+- [Download the Tableau packaged workbook](vitalink_analysis_UK.twbx)
 - Tableau Public interactive dashboard – to be added
 
-## About This Project
-
-This project was originally completed as part of a data analytics capstone. Following the initial submission, I continued developing the analysis independently, revisiting initial conclusions, introducing normalised measures and performing additional exploratory analysis.
-
-The portfolio version was also adapted from the original synthetic US setting to a UK healthcare context. The purpose of this adaptation was to make the presentation more relevant to the healthcare analytics roles I am pursuing while remaining transparent about the synthetic nature and origin of the data.
